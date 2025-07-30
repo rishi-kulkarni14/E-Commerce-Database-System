@@ -40,7 +40,7 @@ A comprehensive MySQL database solution designed for e-commerce platforms. This 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/nirantbendale/ecommerce-mysql.git
+git clone https://github.com/rishi-kulkarni14/E-Commerce-Database-System.git
 cd ecommerce-mysql
 ```
 
@@ -169,4 +169,3 @@ ecommerce-mysql/
 
 
 ---
-Created by Nirant Bendale - Feel free to contact me!
